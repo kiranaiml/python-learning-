@@ -1,0 +1,10 @@
+#ATM Withdrawal
+balance= int(input("current balance:  "))
+amount=float(input("Withdrawal amount: "))
+new_balance=round(balance-amount,2)
+if amount>balance:
+    print("Insufficient funds1 you cannot withdraw more than you have")
+elif amount==balance:
+    print("Waring! This will leave you with a zero balance")
+else:
+    print(f"Withdrawal successful! your new balance is:{new_balance}")
