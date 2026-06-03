@@ -1,6 +1,0 @@
-Transfer attempted: 200 from Kiran to Ajay
-Transfer attempted: Fifty from Kiran to Ajay
-Transfer attempted: 100 from Kiran to UnknownHacker
-Transfer attempted: 200 from Kiran to Ajay
-Transfer attempted: Fifty from Kiran to Ajay
-Transfer attempted: 100 from Kiran to UnknownHacker
