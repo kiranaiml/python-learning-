@@ -75,7 +75,7 @@ I am currently pivoting my architectural knowledge into the world of **Artificia
 ---
 
 <div align="center">
-  <b>Developed with focus by Kiran</b> <br>
+  <b>Developed with focus by KIRAN</b> <br>
   <i>Karnataka, India</i>
 </div>
 </div>
